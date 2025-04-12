@@ -1,0 +1,28 @@
+body{
+
+    height: 90vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: gray;
+    width: 80%;
+    height: 50%;
+}
+
+
+
+
+
+h1{
+
+    color: rgba(225, 255, 56, 0.744);
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    text-size-adjust: 100vh;
+
+}
+
